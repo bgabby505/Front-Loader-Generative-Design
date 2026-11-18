@@ -17,7 +17,7 @@ Redesigned a heavy-duty structural front loader component using **Autodesk Fusio
 ### Selected Casting Outcome
 ![Front Loader Casting Outcome](Outcome1_Front Loarder.f3d)
 ![Front Loader Safety vs Mass Plot Outcome](Outcome-Safety-Plot.png)
-![Generative Design Comparison](Original-Front-Loader-Mode)
+![Generative Design Comparison](Original-Front-Loader-Model.png)
 
 ## Tools & Methods
 * **CAD & Topology Optimization:** Autodesk Fusion (Generative Design Workspace)
